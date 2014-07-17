@@ -1,0 +1,24 @@
+body {
+	
+}
+
+.sum		{
+			display: inline;
+			padding: 15px;
+			margin: 10px;
+			font-family: helvetica, sans-serif;
+			font-size: 18px;
+            font-weight: bold;
+			color: #FFF000;
+			border: 4px solid #FFF000;
+			}
+
+.die		{
+			display: inline;
+			padding: 15px;
+			margin: 10px;
+			font-family: helvetica, sans-serif;
+			font-size: 18px;
+			color: #000;
+			border: 4px double #000;
+			}
