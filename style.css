@@ -9,16 +9,20 @@ body {
 			font-family: helvetica, sans-serif;
 			font-size: 18px;
             font-weight: bold;
-			color: #FFF000;
-			border: 4px solid #FFF000;
+			border: 2px solid #555;
+			border-radius: 3px;
 			}
 
 .die		{
 			display: inline;
 			padding: 15px;
 			margin: 10px;
+			width: 100px;
+			height: 100px;
 			font-family: helvetica, sans-serif;
+			font-weight: 300;
 			font-size: 18px;
 			color: #000;
-			border: 4px double #000;
+			border: 1px solid #999;
+			border-radius: 3px;
 			}

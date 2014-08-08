@@ -32,7 +32,7 @@ function rollDiceSum() {
         diceRandomSum.id = 'dicerandomsum';
         diceRandomSum.className = 'sum';
         document.getElementById('diesides').appendChild(diceRandomSum);
-    }
+   }
     
     // Ok, now that we have a diceRandomSum object, set its innerHTML to the total	
     diceRandomSum.innerHTML = diceRollTotal;
